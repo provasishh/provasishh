@@ -6,7 +6,7 @@
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=provasishh&style=flat-round" />
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
-- 🌱 I’m currently learning **Simple Stuffs**
+- 🌱 I’m currently learning **simple stuffs**
 - 📫 Reach me **iambumba3@gmail.com**
 - ⚡ Fun fact **I'm not funny at all**
 
