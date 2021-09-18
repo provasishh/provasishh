@@ -1,12 +1,13 @@
 <p align="center"><strong>Hello 👋, I'm Provasish Nandi 🇮🇳 (provasish)</strong></p>
 <p align="center"><strong>A noob person 💯</p>
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
+<p align="center"><<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64"></p>
 
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=provasishh&style=flat-round" />
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
 - 🌱 I’m currently learning **Simple Stuffs**
-- 📫 How to reach me **iambumba3@gmail.com**
+- 📫 Reach me **iambumba3@gmail.com**
 - ⚡ Fun fact **I'm not funny at all**
 
 <p align="left">Connect with me:</h3>
