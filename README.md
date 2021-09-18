@@ -15,8 +15,8 @@
 <p href="https://instagram.com/provasishnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provasishnandi" height="30" width="40" /></p>
 </p>
 
-<h3 align="middle">Connect with me:</h3>
-<p align="middle">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://instagram.com/provasishnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provasishnandi" height="30" width="40" /></a>
 </p>
 <p align='center'>
