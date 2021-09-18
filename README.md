@@ -5,9 +5,9 @@
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=provasishh&style=flat-round" />
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
-<a 🌱 I’m currently learning **Simple Stuffs**
-<a 📫 How to reach me **iambumba3@gmail.com**
-<a ⚡ Fun fact **I'm not funny at all**
+- 🌱 I’m currently learning **Simple Stuffs**
+- 📫 How to reach me **iambumba3@gmail.com**
+- ⚡ Fun fact **I'm not funny at all**
 
 <p align="left">Connect with me:</h3>
 <p align="left">
