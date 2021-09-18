@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm provasishh</h1>
 <h3 align="center">A nub person</h3>
+<p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provasishh&label=Profile%20views&color=0e75b6&style=flat" alt="provasishh" /> </p>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
 - 🌱 I’m currently learning **Simple Stuffs**
 - 📫 How to reach me **iambumba3@gmail.com**
