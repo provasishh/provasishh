@@ -1,8 +1,8 @@
-<p align="center">Hi 👋, I'm provasishh</h1>
-<p align="center">A nub person</h3>
+<p align="center"><strong>Hi 👋, I'm provasishh</h1>
+<p align="center"><strong>A nub person</h3>
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=provasishh&label=Profile%20views&color=0e75b6&style=flat" alt="provasishh" /> </p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=provasishh&style=flat-round" />
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
 <p 🌱 I’m currently learning **Simple Stuffs**
