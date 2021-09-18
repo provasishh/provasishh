@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/provasishnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provasishnandi" height="30" width="40" /></a>
 </p>
-<p align='center'>
+<p align='left'>
 <a href="https://t.me/provasishh/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="100" />
 </a>&nbsp;&nbsp;
