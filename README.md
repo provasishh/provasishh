@@ -1,5 +1,5 @@
-<p align="center"><strong>Hi 👋, I'm Provasish Nandi (provasish)</strong></h1>
-<p align="center"><strong>A noob person</h3>
+<p align="center"><strong>Hi 👋, I'm Provasish Nandi (provasish)</strong></p>
+<p align="center"><strong>A noob person</p>
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
 
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=provasishh&style=flat-round" />
