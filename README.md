@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provasishh&label=Profile%20views&color=0e75b6&style=flat" alt="provasishh" /> </p>
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
-- 🌱 I’m currently learning **Simple Stuffs**
-- 📫 How to reach me **iambumba3@gmail.com**
-- ⚡ Fun fact **I'm not funny at all**
+<p 🌱 I’m currently learning **Simple Stuffs**
+<p 📫 How to reach me **iambumba3@gmail.com**
+<p ⚡ Fun fact **I'm not funny at all**
 
 <p align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/provasishnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provasishnandi" height="30" width="40" /></a>
+<p href="https://instagram.com/provasishnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provasishnandi" height="30" width="40" /></a>
 </p>
 
 <p align="left">Languages and Tools:</h3>
