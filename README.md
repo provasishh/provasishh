@@ -20,3 +20,5 @@
 <a href="https://t.me/provasishh/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="100" />
 </a>&nbsp;&nbsp;
+href="#"><img src="https://github-readme-stats.vercel.app/api?username=provasishh&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="350"></a>
+</p>
